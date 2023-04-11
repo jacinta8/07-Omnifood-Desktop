@@ -35,6 +35,7 @@
 .nav-link:visited {
   text-decoration: none;
   color: black;
+  border-radius: 5px;
 }
 
 .nav-link:hover,
